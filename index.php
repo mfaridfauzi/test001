@@ -68,5 +68,17 @@
 				  <input type="hidden" value="Cancel" onclick="javascript:parent.emailwindow.hide()" /> 
 				</td>
 			  </tr>
+			  <tr>
+				  <label for="name">Name</label>
+				  <input type="text" >
+			  </tr>
+			  <tr>
+				  <label for="age">Age</label>
+				  <input type="text" >
+			  </tr>
+			  <tr>
+				  <label for="ps">Password</label>
+				  <input type="password" >
+			  </tr>
 			</table>
 		</form>
