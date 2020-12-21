@@ -32,7 +32,8 @@
 <?php
 
 ?>
-
+<center><span>Assalamualaikum Dunia..</span>
+<h2>Ini merupakan skrip pengaturcaraan untuk menghasilkan kod QR. Sila gunakan dengan sebaiknya. Moga bermanfaat untuk semua.</h2></center>
 <form name="permohonan" method="post" action="multipleqrb250.php">
 			<center><font color="#000066" face="Arial, Helvetica, sans-serif" size="4"><strong>GENERATE QR CODE FOR GEOTREES </strong></font></center><br><br>
 			<table width="70%" align="center" cellpadding="3" cellspacing="0" border="0" class="font-std" >
