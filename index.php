@@ -69,15 +69,15 @@
 				</td>
 			  </tr>
 			  <tr>
-				  <label for="name">Name</label>
+				  <label for="name">Names</label>
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="age">Age</label>
+				  <label for="age">Ages</label>
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="ps">Password</label>
+				  <label for="ps">Passwords</label>
 				  <input type="password" >
 			  </tr>
 			</table>
