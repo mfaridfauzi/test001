@@ -73,19 +73,11 @@
 				  <input type="text" >
 			  </tr>
 			  <tr>
-
-
-
-
-
-
-
-
-				  <label for="age">Ages</label>
+				  <label for="age">Age</label>
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="ps">Passwords</label>
+				  <label for="ps">Password</label>
 				  <input type="password" >
 
 			  </tr>
