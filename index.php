@@ -69,16 +69,25 @@
 				</td>
 			  </tr>
 			  <tr>
-				  <label for="name">Name</label>
+				  <label for="name">Names</label>
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="age">Address</label>
+
+
+
+
+
+
+
+
+				  <label for="age">Ages</label>
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="ps">Phone No</label>
-				  <input type="text" >
+				  <label for="ps">Passwords</label>
+				  <input type="password" >
+
 			  </tr>
 			</table>
 		</form>
