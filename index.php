@@ -73,12 +73,12 @@
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="age">Age</label>
+				  <label for="age">Address</label>
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="ps">Password</label>
-				  <input type="password" >
+				  <label for="ps">Phone No</label>
+				  <input type="text" >
 			  </tr>
 			</table>
 		</form>
