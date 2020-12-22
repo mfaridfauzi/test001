@@ -77,9 +77,10 @@
 				  <input type="text" >
 			  </tr>
 			  <tr>
-				  <label for="ps">Password</label>
+				  <label for="password">Password</label>
 				  <input type="password" >
 
 			  </tr>
 			</table>
 		</form>
+
